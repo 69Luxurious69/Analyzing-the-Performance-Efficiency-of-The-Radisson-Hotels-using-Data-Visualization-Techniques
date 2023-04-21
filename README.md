@@ -7,5 +7,5 @@ story public link - https://public.tableau.com/views/hotel_radisson_story/Story1
 
 Video link - https://drive.google.com/file/d/1HQGSeG-JXMEIQ65ak2C96YugK_SLr594/view?usp=drivesdk
 
-Project template link - https://drive.google.com/file/d/1J4LSBLFRWFibIWevljS1FS1GM6WjEpNK/view?usp=drivesdk
+Project report link - https://drive.google.com/file/d/1J4LSBLFRWFibIWevljS1FS1GM6WjEpNK/view?usp=drivesdk
 
